@@ -1,7 +1,7 @@
 // Déclaration de variable
 let budget = 20000;
 let prix_cahier = 1500;
-let quantite_cahier = 4;
+let quantite_cahier = 20;
 let prix_stylo = 500;
 let quantite_stylo = 3;
 // Calcule du montant de chaque produit
